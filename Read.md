@@ -160,12 +160,14 @@ VITE_APP_TITLE=ROCKET-NOVA
 ![2](https://github.com/user-attachments/assets/e694e508-cb3f-4e4b-babe-caddca3f1c9d)
 📄 Telemetry Report
 ![7](https://github.com/user-attachments/assets/52f9a16e-a4fd-4ca4-bd32-2a8d133894f5)
+
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
+
 ---
 
 ## 📄 License
