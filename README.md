@@ -28,6 +28,14 @@
 - **🔒 Backend API** — Dedicated backend service for data ingestion, processing, and serving satellite data to the frontend.
 
 ---
+# 🚀 ROCKET NOVA AI
+### AI for Real-Time Satellite Health Monitoring & Collision Prevention
+
+🌐 **Live Demo:**  
+
+https://chethankumar485.github.io/ROCKET-NOVA-AI-for-real-time-satellite-health-monitoring-and-collision-prevention/
+
+---
 
 ## 🏗️ Tech Stack
 
